@@ -1,0 +1,18 @@
+/**
+    You may use https://sass-lang.com/install to compile SCSS file to CSS
+    You should not touch files inside "bootstrap" dir,
+    unless you are about to update Bootstrap (version 4.3)
+
+    Author: Sergey Pozhilov, https://hitwp.com
+
+ */
+
+@import "bootstrap/functions";
+@import "bootstrap/mixins";
+@import "bootstrap/variables";
+@import "bootstrap/reboot";
+@import "bootstrap/grid";
+@import "bootstrap/type";
+@import "variables";
+@import "navigation";
+@import "layout";
